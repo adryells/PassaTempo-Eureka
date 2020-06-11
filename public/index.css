@@ -1,0 +1,42 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: gray;
+}
+
+.init{
+	width: 50px;
+	height: 30px;
+	margin-left: 467px;
+	margin-top:50px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+}
+
+h1{
+	text-align: center;
+	margin-top: 25px;
+	color: rgb(120,190,55);
+}
+h2{
+	color: rgb(100,160,67);
+}
+#principal{
+	margin-left: 465px;
+	max-width: 350px;
+	text-align: center;
+	background-color: aliceblue;
+	border-style: solid;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+.bot{
+margin: 5PX;
+width: 30px;
+height: 20px;
+}
